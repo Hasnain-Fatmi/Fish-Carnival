@@ -23,6 +23,7 @@
 -Try running the already given .com file if it doesnt work follow below instructions
 
       nasm HunterXFish.asm -o HunterXFish.com
+      
       HunterXFish.com
 
 
