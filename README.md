@@ -20,9 +20,12 @@
 -Then copy the commands and replace the paranthesis {} with your file path
 
       mount c: {path to your file}
--Try running the already given .com file if it doesnt work follow below instructions
 
-      nasm HunterXFish.asm -o HunterXFish.com
+-follow below instructions, For compiling  
+
+      nasm FishCarnival.asm -o FishCarnival.com
+
+-Once .com file is made then run following command,
       
       HunterXFish.com
 
