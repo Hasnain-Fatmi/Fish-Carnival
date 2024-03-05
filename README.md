@@ -13,6 +13,19 @@
 
 -This game was developed in DOSBox, an x86 emulator with DOS so head on over to https://www.dosbox.com/download.php?main=1 to download the emulator or run any other x86 dos emulator.
 
+##Compiling-and-executing
+
+-Firsty download the .asm and .com files provided and open up the dosbox terminal.
+
+-Then copy the commands and replace the paranthesis {} with your file path
+
+      mount c: {path to your file}
+-Try running the already given .com file if it doesnt work follow below instructions
+
+      nasm HunterXFish.asm -o HunterXFish.com
+      HunterXFish.com
+
+
 ## License-&-Usage
 
 -MIT
