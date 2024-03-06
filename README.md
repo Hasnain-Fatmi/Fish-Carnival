@@ -27,7 +27,25 @@
 
 -Once .com file is made then run following command,
       
-      HunterXFish.com
+      FishCarnival.com
+
+## Pictures
+
+-- Loading Screen (In PIXELS)
+
+![alt text](https://github.com/Hasnain-Fatmi/Fish-Carnival/blob/main/Images/Load.jpg)
+
+--Instruction Screen
+
+![alt text](https://github.com/Hasnain-Fatmi/Fish-Carnival/blob/main/Images/Welcome.png)
+
+--In-Game
+
+![alt text](https://github.com/Hasnain-Fatmi/Fish-Carnival/blob/main/Images/Game.png)
+
+--Ending Screen
+
+![alt text](https://github.com/Hasnain-Fatmi/Fish-Carnival/blob/main/Images/Game%20End.png)
 
 
 ## License-&-Usage
